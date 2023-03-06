@@ -1,2 +1,2 @@
-# Hi, nice to meet you
-This is my study case from DQLab Academy
+# Hi, nice to meet you<br />
+This is my study case from DQLab Academy. The [Project](https://github.com/agustinaswd/DQLab/tree/main/Project) section contains real-time SQL challenges from industry data experts using DQLab Academy's Live Code Editor. Whereas [FGA Kominfo 2022](https://github.com/agustinaswd/DQLab/tree/main/FGA%20Kominfo%202022) section contain the project that was done while attending the Fresh Graduate Academy in collaboration with Kominfo and DQLab.
